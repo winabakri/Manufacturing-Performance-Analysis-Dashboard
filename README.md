@@ -1,5 +1,5 @@
 # Manufacturing-Performance-Analysis
-This dashboard about developing interactive Power BI dashboards to visualize manufacturing KPIs, enabling monitoring of production efficiency, workforce performance, and machine utilization
+Manufacturing KPI Analysis & Power BI Dashboard | Production Efficiency, Machine Utilization, Workforce Performance & Downtime Analysis using Power BI and Excel.
 # Manufacturing KPI Analysis & Performance Dashboard
 
 ## Project Overview
